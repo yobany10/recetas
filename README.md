@@ -1,6 +1,6 @@
 # Recetas
 
-View the live version here [here](https://github.com/facebook/create-react-app).
+View the live version here [here](https://recetas-8c07d.web.app).
 
 ## Summary
 
